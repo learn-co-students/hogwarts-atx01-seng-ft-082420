@@ -85,6 +85,10 @@ ul {
   opacity: 1;
 }
 
+.pigImage {
+  width: 300px;
+  height: 300px;
+}
 .minBackgroundSneak {
   position: absolute;
   width: inherit;
@@ -106,15 +110,15 @@ ul {
   color: #FBB;
 }
 .minPigTile {
-  width: 250px;
-  height: 250px;
+  width: 100px;
+  height: 100px;
   background-size: cover;
 }
 
 .maxPigTile {
   background-size: cover;
-  width: 500px;
-  height: 500px;
+  width: 100px;
+  height: 100px;
 }
 
 .pigTile:hover {
